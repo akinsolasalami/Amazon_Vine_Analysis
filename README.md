@@ -8,6 +8,7 @@ Companies pay a small fee to Amazon and provide products to Amazon Vine members,
 ## Results
 
 Total Reviews
+
 ![Image 4](Resources/image4.png "Image 4")
 
 ### How many Vine reviews and non-Vine reviews were there?
